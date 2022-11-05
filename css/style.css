@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+#Barra
+{
+    background-color: #343a40 !important;
+}
+
+#Boton-Verde
+{
+    color: #16da43;
+}
+
+#color_junior
+{
+    color: white;
+}
+
+#Formulario
+{
+    width: 50%;
+    margin: auto;
+}
+
+#Boton1
+{
+    background-color: #76ce53 !important;
+    color: white;
+}
+#Boton2
+{
+    background-color: #76ce53 !important;
+    color: white;
+}
+
+#Piedepagina
+{
+    background-color: #212f4b !important;
+    color: white;
+    font-size: 18px; 
+    padding-top: 25px;
+    height: 100px;
+    text-align:center;   
+}
